@@ -87,11 +87,11 @@ class Main extends React.Component {
             that I add value to each of the places where I work.
             I started studying a degree in computer science engineering specializing in the area of ​​networks and
             telecommunications. But once working in this area, I wanted new challenges and to learn other things. So I
-            decided to dive into software development. I started with small projects as an application for comp time and
-            support for existing applications, so I helped my employer implement the CI / CD cycle for two environments
-            (DEV and QA). And in what I am learning I like more and more the area of ​​Devops infrastructures and
-            systems design. so in the future I would like to be an architect of multi-scale solutions for global
-            solutions and maybe set up my startup.
+            decided to dive into software development. I started with small projects as an application for compensatory
+            times and support for existing applications, so I helped my employer implement the CI / CD cycle for two
+            environments with technologies like docker, gitlab rancher and kubernetes (DEV and QA). And in what I am
+            learning I like more and more the area of ​​Devops infrastructures and systems design. so in the future I
+            would like to be an architect of multi-scale solutions for global solutions and maybe set up my startup.
           </p>
           {close}
         </article>
